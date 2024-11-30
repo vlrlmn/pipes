@@ -20,17 +20,17 @@ pipex takes four arguments: input file (file1), first command (cmd1), second com
 ## Usage
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/vlrlmn/pipex.git
 ```
 
 2. Compile the program:
 ```bash
-   make
+make
 ```
 
 3. Execute Pipex:
   ```bash
-  ./pipex file1 "cmd1" "cmd2" file2
+./pipex file1 "cmd1" "cmd2" file2
   ```
 
 ## Bonus Part
